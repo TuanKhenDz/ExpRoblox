@@ -1,2 +1,2 @@
-# ExpRoblox
+# Script
 No Bio Yet
